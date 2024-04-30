@@ -25,9 +25,6 @@
     export default defineComponent({
     components: { IonInput },
     props: {
-        textAlt: String,
-        tituloCard: String,
-        subtituloCar: String,
         color: String     
     }
 });
